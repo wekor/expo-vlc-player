@@ -6,7 +6,7 @@ module.exports = async (env, argv) => {
     {
       ...env,
       babel: {
-        dangerouslyAddModulePathsToTranspile: ['expo-vlc-player'],
+        dangerouslyAddModulePathsToTranspile: ['@wekor/expo-vlc-player'],
       },
     },
     argv

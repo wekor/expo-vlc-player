@@ -15,7 +15,8 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "expo.modules.vlcplayer.example"
+      "bundleIdentifier": "expo.modules.vlcplayer.example",
+      "appleTeamId": "QD9GN5JT7V"
     },
     "android": {
       "adaptiveIcon": {

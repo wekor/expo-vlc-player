@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "expo-vlc-player": ["../src/index"],
-      "expo-vlc-player/*": ["../src/*"]
+      "@wekor/expo-vlc-player": ["../src/index"],
+      "@wekor/expo-vlc-player/*": ["../src/*"]
     }
   }
 }

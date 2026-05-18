@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  'expo-vlc-player': '..',
+  '@wekor/expo-vlc-player': '..',
 };
 
 config.watchFolders = [path.resolve(__dirname, '..')];
